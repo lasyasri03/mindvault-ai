@@ -1,0 +1,14 @@
+.grain {
+  position: relative;
+}
+
+.grain::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(rgba(0, 0, 0, 0.06) 0.4px, transparent 0.4px);
+  background-size: 3px 3px;
+  opacity: 0.18;
+  pointer-events: none;
+}
+
