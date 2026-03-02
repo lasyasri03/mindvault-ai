@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Second Brain AI Knowledge System
 
 AI-powered full-stack knowledge management built with Next.js 14, Supabase PostgreSQL, and Google Gemini.
@@ -111,3 +112,6 @@ npm run dev
 4. Deploy.
 
 No extra server process is required; all logic runs in Next.js routes.
+=======
+# mindvault-ai
+>>>>>>> 1b9a96a11138bafaaf882ab31f8e6527f3d85daa
